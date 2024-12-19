@@ -4,11 +4,16 @@
 I'm a **B.Tech CSE student** at Swami Vivekanand College of Engineering, Indore (2021-2025).  
 Passionate about **web application development**, I specialize in **Java**, **Servlets**, **MySQL**, and building scalable, role-based systems.
 
+---
 
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalitpatel06)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/LalitPatel06)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/LalitPatel06)  
 
 ---
 
-### 🛠️ Skills and Technologies
+### Languages and Tools (Frameworks/Libraries):  
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)  
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)  
@@ -20,7 +25,6 @@ Passionate about **web application development**, I specialize in **Java**, **Se
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
-
 
 
 ---
