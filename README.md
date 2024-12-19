@@ -13,17 +13,27 @@ Passionate about **web application development**, I specialize in **Java**, **Se
 
 ---
 
-### Languages and Tools (Frameworks/Libraries):  
+## 🛠️ Skills and Technologies  
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
+<br>
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)  
+<br>
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)  
+<br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
+<br>
 [![JDBC](https://img.shields.io/badge/JDBC-336791?logo=java&logoColor=white)](https://www.oracle.com/java/technologies/jdbc.html)  
+<br>
 [![Servlets](https://img.shields.io/badge/Java%20Servlets-1B6AC6?logo=java&logoColor=white)](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)  
+<br>
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+<br>
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+<br>
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)  
+<br>
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  
+<br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
 
 
