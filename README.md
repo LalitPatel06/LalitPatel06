@@ -44,7 +44,6 @@ I specialize in **Java**,**JSP**,**Servlet** **MySQL**, and **web application de
 ## 📊 GitHub Stats  
 ![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LalitPatel06&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LalitPatel06&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LalitPatel06&theme=dark)
 
 ---
 
