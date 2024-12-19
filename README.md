@@ -9,7 +9,43 @@ Passionate about **web application development**, I specialize in **Java**, **Se
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitpatel6260)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/LalitPatel06)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/LalitPatel06)  
+
+
+# Hi there! 👋 I'm Lalit Patel  
+
+💻 Passionate about building scalable, user-centric web applications using Java, Servlets, and MySQL.  
+
+---
+
+## 🚀 About Me  
+I'm a **B.Tech CSE student** at Swami Vivekanand College of Engineering, Indore (2021-2025).  
+I specialize in **Java**, **MySQL**, and **web application development**.
+
+---
+
+## 🔥 Featured Projects  
+- **[Student Management System](https://github.com/LalitPatel06/student-management-system)**  
+  A role-based web application for managing students, teachers, and admin functionalities.  
+  *Tech Stack: Java, Servlets, MySQL, HTML, CSS*
+
+- **[Library Management System](https://github.com/LalitPatel06/library-management-system)**  
+  A dynamic application for managing library records.  
+  *Tech Stack: Java, JDBC, MySQL*
+
+---
+
+## 📊 GitHub Stats  
+![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LalitPatel06&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LalitPatel06&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LalitPatel06&theme=dark)
+
+---
+
+## 🌐 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitpatel6260)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/LalitPatel06)  
+📧 Email: [lalitpatel062002@gmail.com](mailto:lalitpatel062002@gmail.com)
+
 
 ---
 
