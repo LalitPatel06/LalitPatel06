@@ -18,21 +18,6 @@ I specialize in **Java**,**JSP**,**Servlet** **MySQL**, and **web application de
 
 ---
 
-## 🔥 Featured Projects  
-- **[Student Management System](https://github.com/LalitPatel06/student-management-system)**  
-  A role-based web application for managing students, teachers, and admin functionalities.  
-  *Tech Stack: Java, Servlets, JSP,MySQL, HTML, CSS*
-
----
-
-## 📊 GitHub Stats  
-![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LalitPatel06&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LalitPatel06&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LalitPatel06&theme=dark)
-
----
-
-
 ## 🛠️ Skills and Technologies 
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/) 
@@ -47,10 +32,19 @@ I specialize in **Java**,**JSP**,**Servlet** **MySQL**, and **web application de
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 
+---
 
+## 🔥 Featured Projects  
+- **[Student Management System](https://github.com/LalitPatel06/student-management-system)**  
+  A role-based web application for managing students, teachers, and admin functionalities.  
+  *Tech Stack: Java, Servlets, JSP,MySQL, HTML, CSS*
 
+---
 
-
+## 📊 GitHub Stats  
+![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LalitPatel06&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LalitPatel06&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LalitPatel06&theme=dark)
 
 ---
 
