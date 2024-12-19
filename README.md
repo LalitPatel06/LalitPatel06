@@ -35,8 +35,7 @@ I specialize in **Java**,**JSP**,**Servlet** **MySQL**, and **web application de
 
 ---
 
-## 🛠️ Skills and Technologies  
-[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
+## 🛠️ Skills and Technologies  [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)  
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
@@ -48,6 +47,7 @@ I specialize in **Java**,**JSP**,**Servlet** **MySQL**, and **web application de
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
+
 
 
 ---
