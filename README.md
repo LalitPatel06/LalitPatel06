@@ -8,7 +8,7 @@ Passionate about **web application development**, I specialize in **Java**, **Se
 
 ---
 
-## 🛠️ Skills and Technologies
+### 🛠️ Skills and Technologies
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)  
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)  
