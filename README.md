@@ -4,15 +4,23 @@
 I'm a **B.Tech CSE student** at Swami Vivekanand College of Engineering, Indore (2021-2025).  
 Passionate about **web application development**, I specialize in **Java**, **Servlets**, **MySQL**, and building scalable, role-based systems.
 
-🌱 Currently working on my first project:  
-**A Student Management System** with role-based authentication (Admin, Teacher, Student) using Java Servlets, HTML, and MySQL.
+
 
 ---
 
 ## 🛠️ Skills and Technologies
-- **Languages**: Java, SQL, HTML, CSS
-- **Frameworks/Tools**: Servlets, JDBC, NetBeans, MySQL
-- **Concepts**: Web Development, Database Management, Authentication & Authorization
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)  
+[![Servlets](https://img.shields.io/badge/Java%20Servlets-1B6AC6?logo=java&logoColor=white)](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)  
+[![JDBC](https://img.shields.io/badge/JDBC-336791?logo=java&logoColor=white)](https://www.oracle.com/java/technologies/jdbc.html)  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
+[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
+[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)  
+
 
 ---
 
