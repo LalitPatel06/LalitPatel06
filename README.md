@@ -37,6 +37,10 @@ I specialize in **Java**, **JSP**, **Servlet**, **MySQL**, and **web application
 
 ## 🔥 Featured Projects  
 
+- **[📅 Appointment Scheduler System](https://github.com/LalitPatel06/Appointment-Scheduler-System)**  
+  A Java console-based appointment booking system with role-based dashboards for users and admins.  
+  *Tech Stack: Java, MySQL, JDBC, OOPs*
+
 - **[🚗 Car Parking Reservation System](https://github.com/LalitPatel06/Car_Parking_Reservation_System)**  
   A web-based reservation system for managing parking slots with role-based access for admin and users.  
   *Tech Stack: Java, JSP, Servlets, MySQL, HTML, CSS*
@@ -63,8 +67,8 @@ I specialize in **Java**, **JSP**, **Servlet**, **MySQL**, and **web application
 ---
 
 ## 🌟 Career Objective  
-Seeking a challenging role in **software development** where I can leverage my skills in Java and database management to contribute to innovative projects while advancing my knowledge.
-
+Enthusiastic Computer Science student with strong Java and MySQL skills, aiming to contribute to scalable
+applications and grow as a full-stack developer.
 ---
 
 ## 🔗 Let's Connect!
